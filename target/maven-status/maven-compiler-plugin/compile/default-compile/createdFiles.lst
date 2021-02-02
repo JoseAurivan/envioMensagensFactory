@@ -1,0 +1,6 @@
+com\mycompany\enviomensagens\WhatsApp.class
+com\mycompany\enviomensagens\MensagemFactory.class
+com\mycompany\enviomensagens\Mensagem.class
+com\mycompany\enviomensagens\Email.class
+com\mycompany\enviomensagens\Main.class
+com\mycompany\enviomensagens\SMS.class
